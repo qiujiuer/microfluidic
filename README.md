@@ -1,6 +1,4 @@
-根据提供的两个Python文件内容，分别为明场图像处理脚本 (`biaoqian_baright.py`) 和荧光图像处理脚本 (`biaoqian_dark.py`) 编写了以下两个 README 文档。
 
----
 
 ### README 1: 明场图像微孔状态自动标注工具
 
